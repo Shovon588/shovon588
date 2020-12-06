@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi, I'm SHOVON 👋 👨‍💻
+
+<img src="https://github.com/Shovon588/shovon588/blob/main/assets/git_cover.png" alt="Md. Minul Islam Shovon (Developer, Competitive programmer)">
+I'm a Electrical and Computer Engineer 👨‍🎓 who is passionate about programming and development. I am a web developer 💻 focusing on Python, Django, Django Rest Framework and JavaScript Technologies. Also I have been solving programming problems accross various sports programming platform for last 3 years.
+
+
+- 🔭 I’m currently working on <a href="">URL Trimmer</a>
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on community projects.
+- ⚡ Fun fact: Coffeholic ☕
+
+
+## Find me around the web 🌎: <a href="https://minulislam.xyz/"><img align="left" width="150" height="150" src="https://github.com/Shovon588/shovon588/blob/main/assets/animation.gif"></a>
+- Get updates on my<a href="https://minulislam.xyz/">Portfolio 💻🙄</a>
+- Connect in <a href="https://www.linkedin.com/in/mainulislam588/"> Linkedin 💼</a>
+
 
 <!--
 **Shovon588/shovon588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
