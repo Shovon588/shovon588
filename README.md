@@ -1,6 +1,9 @@
 # Hi, I'm SHOVON 👋 👨‍💻
-
-<img src="https://github.com/Shovon588/shovon588/blob/main/assets/git_cover.png" width="750" height="400" alt="Md. Minul Islam Shovon (Developer, Competitive programmer)">
+### Backend Developer (Django)
+### Frontend Developer (ReactJs)
+### Competitive Programmer
+<br />
+<br />
 I'm a Electrical and Computer Engineer 👨‍🎓 who is passionate about programming and development. I am a web developer 💻 focusing on Python, Django, Django Rest Framework and JavaScript Technologies. Also I have been solving programming problems accross various sports programming platform for last 3 years.
 
 
