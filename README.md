@@ -1,14 +1,10 @@
 # Hi, I'm Shovon 👋 👨‍💻
 
-#### SDE-I @ Craftsmen
+#### SDE-I @ <a href="https://craftsmenltd.com/">Craftsmen</a>
 
-#### Backend Developer (Python)
-
-#### Frontend Developer (ReactJs)
+#### Full Stack Developer (Python, ReactJs, AWS Serverless)
 
 #### Competitive Programmer
-
-#### Machine Learning Enthusiast
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shovon588&label=Profile%20views&color=brightgreen&style=plastic"> </p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=shovon588&show_icons=true&locale=en"/></p>
