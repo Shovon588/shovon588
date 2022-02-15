@@ -50,17 +50,17 @@ YAML         5 mins          █▓░░░░░░░░░░░░░░░
 <br />
 
 **<h3>📈 Github stats:</h3>**
-<div style="text-align: center">
+<div align="center">
   <a href="https://github.com/shovon588">
-    <img height="162px" style="border-radius: 15px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon588&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&theme=gotham" />
+    <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon588&langs_count=6&layout=compact&hide_border=true&theme=gotham" />
   </a>
   <a href="https://github.com/shovon588">
-    <img height="162px" style="border-radius: 15px" src="https://github-readme-streak-stats.herokuapp.com/?user=shovon588&layout=compact&hide_border=true&line_height=24&theme=gotham" />
+    <img height="162px" src="https://github-readme-streak-stats.herokuapp.com/?user=shovon588&layout=compact&hide_border=true&theme=gotham" />
   </a>
 </div>
 
 <br />
-<div style="text-align: center">
+<div align="center">
   <a href="https://github.com/shovon588">
     <img height="162px" src="https://github-readme-stats.vercel.app/api?username=shovon588&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&theme=gotham" />
   </a>
