@@ -30,8 +30,6 @@ I'm a Electrical and Computer Engineer and is passionate about programming and s
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
-
 Total: 1 hr 23 mins
 
 Markdown     45 mins         █████████████▓░░░░░░░░░░░   54.64 % 
