@@ -28,7 +28,9 @@ I'm a Electrical and Computer Engineer and is passionate about programming and s
 
 🕥 **Time spent on (7 days)**
 
-<figure><embed src="https://wakatime.com/share/@3019b42d-ed53-4ba2-9f9f-e6c29e118f01/9debf2f6-8f62-48c2-a8c7-882f55f7fbf1.svg"></embed></figure>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 📈 **Github stats:**
 
