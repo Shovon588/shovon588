@@ -1,22 +1,54 @@
-# Hi, I'm Shovon 👋 👨‍💻
+## Hi, I'm Shovon 👋
 
-#### SDE-I @ <a href="https://craftsmenltd.com/">Craftsmen</a>
+**SDE-I @ <a href="https://craftsmenltd.com/">Craftsmen</a>**
+<br />
+**Full Stack Developer (Python, ReactJs, AWS Serverless)**
 
-#### Full Stack Developer (Python, ReactJs, AWS Serverless)
+<br/>
 
-#### Competitive Programmer
+I'm a Electrical and Computer Engineer and is passionate about programming and software development. I am a Full-Stack web developer focusing on Python, JavaScript and AWS technologies. Currently I am working as a Software Development Engineer at <a href="https://www.craftsmenltd.com/">Craftsmen.</a>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=shovon588&label=Profile%20views&color=brightgreen&style=plastic"> </p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=shovon588&show_icons=true&locale=en"/></p>
+<br/>
+
+**Tools & Technologies:**
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+
+🕥 **Time spent on (7 days)**
+
+<figure><embed src="https://wakatime.com/share/@3019b42d-ed53-4ba2-9f9f-e6c29e118f01/9debf2f6-8f62-48c2-a8c7-882f55f7fbf1.svg"></embed></figure>
+
+📈 **Github stats:**
+
+<a><img src="https://komarev.com/ghpvc/?username=shovon588&label=Profile%20views&color=brightgreen&style=plastic"> </a>
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shovon588&show_icons=true&theme=gotham" alt="shovon588" /></p>
+
 
 <br />
-<br />
-I'm a Electrical and Computer Engineer 👨‍🎓 who is passionate about programming and development. I am a Full-Stack web developer 💻 focusing on Python, Django, AWS and JavaScript Technologies. Currently I am working as a Software Development Engineer at <a href="https://www.craftsmenltd.com/">Craftsmen.</a>
 
-<br />
-<br />
+🔎 **Find me around the web:**
 
-## Find me around the web 🌎: <a href="https://minulislam.xyz/"><img align="left" width="150" height="150" src="https://github.com/Shovon588/shovon588/blob/main/assets/spiderman.png"></a>
 
--   Get updates on my<a href="https://minulislam.xyz/" target="_blank"> Portfolio</a> 🕸
--   Connect me in <a href="https://www.linkedin.com/in/mainulislam588/" target="_blank"> Linkedin</a> 💼
+<a href="https://www.linkedin.com/in/mainulislam588/" target="_blank">
+  <img alt="Linkedin profile" width="22px" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/linkedin.png" />
+</a>
+<a href="https://www.facebook.com/mainulislam588/" target="_blank">
+  <img alt="Facebook profile" width="22px" style=" margin-left: 10px; margin-right: 10px; " src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/facebook.png" />
+</a>
+<a href="https://shovon588.github.io/" target="_blank">
+  <img alt="Portfolio" width="22px" style=" margin-left: 10px; margin-right: 10px; " src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/globe.png" />
+</a>
