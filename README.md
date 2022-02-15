@@ -10,7 +10,7 @@ I'm a Electrical and Computer Engineer and is passionate about programming and s
 
 <br/>
 
-**Tools & Technologies:**
+**<h3>⚙ Tools & Technologies</h3>**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
@@ -26,34 +26,49 @@ I'm a Electrical and Computer Engineer and is passionate about programming and s
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 
-🕥 **Time spent on (7 days)**
+<br />
+
+**<h3>🕥 Total time spent (7 days)</h3>**
 
 <!--START_SECTION:waka-->
+
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
 Total: 1 hr 23 mins
 
-Markdown     45 mins         █████████████▓░░░░░░░░░░░   54.64 % 
-JSON         17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 % 
-HTML         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-YAML         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Markdown     45 mins         █████████████▓░░░░░░░░░░░   54.64 %
+JSON         17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+HTML         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+YAML         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
 ```
+
 <!--END_SECTION:waka-->
-
-
-📈 **Github stats:**
-
-<a><img src="https://komarev.com/ghpvc/?username=shovon588&label=Profile%20views&color=brightgreen&style=plastic"> </a>
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shovon588&show_icons=true&theme=gotham" alt="shovon588" /></p>
-
 
 <br />
 
-🔎 **Find me around the web:**
+**<h3>🚖 Profile visitor: <img align="center" src="https://profile-counter.glitch.me/shovon588/count.svg" alt="Visitor Count" /></h3>**
 
+<br />
+
+**<h3>📈 Github stats:</h3>**
+<div style="text-align: center">
+  <a href="https://github.com/shovon588">
+    <img height="162px" style="border-radius: 15px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon588&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&theme=gotham" />
+  </a>
+  <a href="https://github.com/shovon588">
+    <img height="162px" style="border-radius: 15px" src="https://github-readme-streak-stats.herokuapp.com/?user=shovon588&layout=compact&hide_border=true&line_height=24&theme=gotham" />
+  </a>
+</div>
+
+<br />
+<div style="text-align: center">
+  <a href="https://github.com/shovon588">
+    <img height="162px" src="https://github-readme-stats.vercel.app/api?username=shovon588&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&theme=gotham" />
+  </a>
+</div>
+
+**<h3>🔎 Find me around the web</h3>**
 
 <a href="https://www.linkedin.com/in/mainulislam588/" target="_blank">
   <img alt="Linkedin profile" width="45px" style="margin: 0 0.5rem" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/linkedin.png" />
