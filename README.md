@@ -46,11 +46,11 @@ I'm a Electrical and Computer Engineer and is passionate about programming and s
 
 
 <a href="https://www.linkedin.com/in/mainulislam588/" target="_blank">
-  <img alt="Linkedin profile" width="22px" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/linkedin.png" />
+  <img alt="Linkedin profile" width="45px" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/mainulislam588/" target="_blank">
-  <img alt="Facebook profile" width="22px" style=" margin-left: 10px; margin-right: 10px; " src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/facebook.png" />
+  <img alt="Facebook profile" width="45px" style=" margin-left: 10px; margin-right: 10px; background: blue " src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/facebook.png" />
 </a>
 <a href="https://shovon588.github.io/" target="_blank">
-  <img alt="Portfolio" width="22px" style=" margin-left: 10px; margin-right: 10px; " src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/globe.png" />
+  <img alt="Portfolio" width="45px" style=" margin-left: 10px; margin-right: 10px; " src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/globe.png" />
 </a>
