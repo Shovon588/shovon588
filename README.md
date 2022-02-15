@@ -2,7 +2,7 @@
 
 **SDE-I @ <a href="https://craftsmenltd.com/">Craftsmen</a>**
 <br />
-**Full Stack Developer (Python, ReactJs, AWS Serverless)**
+**Full Stack Developer (Python, JavaScript, AWS)**
 
 <br/>
 
