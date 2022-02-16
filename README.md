@@ -48,6 +48,16 @@ YAML         5 mins          █▓░░░░░░░░░░░░░░░
 <br />
 
 **<h3>📈 Github stats:</h3>**
+<br />
+
+<div align="center">
+  <a href="https://github.com/shovon588">
+    <img height="162px" src="https://github-readme-stats.vercel.app/api?username=shovon588&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&theme=gotham" />
+  </a>
+</div>
+
+<br />
+
 <div align="center">
   <a href="https://github.com/shovon588">
     <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon588&langs_count=6&layout=compact&hide_border=true&theme=gotham" />
@@ -58,11 +68,14 @@ YAML         5 mins          █▓░░░░░░░░░░░░░░░
 </div>
 
 <br />
+
 <div align="center">
   <a href="https://github.com/shovon588">
-    <img height="162px" src="https://github-readme-stats.vercel.app/api?username=shovon588&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&theme=gotham" />
+    <img height="265" width="100%" src="https://activity-graph.herokuapp.com/graph?username=shovon588&hide_border=true&bg_color=0F0E0E&color=EEE6CE&line=EEE6CE&point=2EB086" />
   </a>
 </div>
+
+<br />
 
 **<h3>🔎 Find me around the web</h3>**
 
