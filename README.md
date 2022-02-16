@@ -28,7 +28,7 @@ I'm a Electrical and Computer Engineer and is passionate about programming and s
 
 <br />
 
-**<h3>🕥 Total time spent (7 days)</h3>**
+**<h3>🕥 Time spent (7 days)</h3>**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
