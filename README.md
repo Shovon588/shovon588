@@ -67,13 +67,17 @@ YAML         5 mins          █▓░░░░░░░░░░░░░░░
 **<h3>🔎 Find me around the web</h3>**
 
 <a href="https://www.linkedin.com/in/mainulislam588/" target="_blank">
-  <img alt="Linkedin profile" width="45px" style="margin: 0 0.5rem" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/linkedin.png" />
+  <img alt="Linkedin profile" width="45px" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/linkedin.png" />
 </a>
 &nbsp;&nbsp
 <a href="https://www.facebook.com/mainulislam588/" target="_blank">
-  <img alt="Facebook profile" width="45px" style="margin: 0 1rem" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/facebook.png" />
+  <img alt="Facebook profile" width="45px" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/facebook.png" />
 </a>
 &nbsp;&nbsp
 <a href="https://shovon588.github.io/" target="_blank">
-  <img alt="Portfolio" width="45px" style="margin: 0 1rem" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/globe.png" />
+  <img alt="Portfolio" width="45px" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/globe.png" />
+</a>
+&nbsp;&nbsp
+<a href="mailto:mainulislam588@gmail.com" target="_blank">
+  <img alt="Gmail" width="45px" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/gmail.png" />
 </a>
