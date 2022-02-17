@@ -3,8 +3,8 @@ name: Waka Github Action
 on:
   workflow_dispatch:
   schedule:
-    # Runs every hour
-    - cron: "0 */1 * * *"
+    # Runs every four hour
+    - cron: "0 */4 * * *"
 
 jobs:
   update-readme:
