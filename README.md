@@ -33,8 +33,8 @@ I'm a Electrical and Computer Engineer and is passionate about programming and s
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 2 mins    ██████████████▓░░░░░░░░░░   58.40 %
-Other        1 hr 52 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
+JavaScript   5 hrs 48 mins   █████████████▓░░░░░░░░░░░   55.25 %
+Other        1 hr 52 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
 ```
 
 <!--END_SECTION:waka-->
