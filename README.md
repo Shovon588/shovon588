@@ -32,7 +32,7 @@ I'm a Electrical and Computer Engineer and is passionate about programming and s
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript   7 hrs 45 mins   ███████████████████░░░░░░   75.81 %
 Other        31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 YAML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
