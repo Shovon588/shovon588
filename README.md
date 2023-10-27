@@ -33,11 +33,11 @@ I'm a Electrical and Computer Engineer and is passionate about programming and s
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   17 hrs 42 mins  ███████████████████░░░░░░   75.34 %
-JavaScript   4 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-Markdown     39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Other        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-SCSS         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+TypeScript   17 hrs 8 mins   █████████████████▓░░░░░░░   70.28 %
+JavaScript   4 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
+SCSS         1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Other        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Markdown     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
