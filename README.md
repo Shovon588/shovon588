@@ -70,14 +70,6 @@ SCSS         25 mins         █░░░░░░░░░░░░░░░░
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/shovon588">
-    <img height="265" width="100%" src="https://activity-graph.herokuapp.com/graph?username=shovon588&hide_border=true&bg_color=0F0E0E&color=EEE6CE&line=EEE6CE&point=2EB086" />
-  </a>
-</div>
-
-<br />
-
 **<h3>🔎 Find me around the web</h3>**
 
 <a href="https://www.linkedin.com/in/mainulislam588/" target="_blank">
