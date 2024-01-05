@@ -1,8 +1,8 @@
 ## Hi, I'm Shovon 👋
 
-**SDE-I @ <a href="https://craftsmenltd.com/">Craftsmen</a>**
+**SDE-II @ <a href="https://craftsmenltd.com/">Craftsmen</a>**
 <br />
-**Full Stack Developer (Python, JavaScript, AWS)**
+**Full Stack Developer (JavaScript, TypeScript, ReactJs, Python, AWS)**
 
 <br/>
 
